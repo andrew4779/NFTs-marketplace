@@ -40,7 +40,7 @@ const Footer = () => {
               <LinkedIn />
             </a>
             <a
-              href="http://instagram.com/devmitoluu"
+              href="http://instagram.com/masaneii"
               target="_blank"
               rel="noopener noreferrer"
             >
