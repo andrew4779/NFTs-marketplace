@@ -72,11 +72,11 @@ const Footer = () => {
         <span>
           Made with 💖 by {""}
           <a
-            href="https://twitter.com/israelmitolu"
+            href="https://twitter.com/masaneii"
             target="_blank"
             rel="noopener noreferrer"
           >
-            Israel Mitolu
+            Andrew kimani
           </a>
         </span>
       </Credits>
