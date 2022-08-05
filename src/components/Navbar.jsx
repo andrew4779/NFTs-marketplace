@@ -36,7 +36,7 @@ const Navbar = () => {
           <ListItem>
             <div className="mobile">
               <Button
-                text="View on Github"
+                text="Andrew kimani"
                 link="https://github.com/andrew79"
               />
             </div>
@@ -44,7 +44,7 @@ const Navbar = () => {
         </Menu>
         <div className="desktop">
           <Button
-            text="View on Github"
+            text="Andrew kimani"
             link="https://github.com/andrew79"
           />
         </div>
