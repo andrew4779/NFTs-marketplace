@@ -5,7 +5,7 @@ import { Link } from "react-router-dom";
 const Logo = () => {
   return (
     <LogoText>
-      <Link to="/">w.</Link>
+      <Link to="/">NFT'S.</Link>
     </LogoText>
   );
 };
