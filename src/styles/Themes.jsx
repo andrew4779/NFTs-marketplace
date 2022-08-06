@@ -1,4 +1,4 @@
-// This file contains variables for different thremes
+// This file contains variables for different themes
 
 export const Light = {
   body: "#fff",

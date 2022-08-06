@@ -3,6 +3,7 @@ import styled from "styled-components";
 import Typewriter from "typewriter-effect";
 import Button from "./Button";
 
+
 const TypeWriterText = () => {
   return (
     <>
