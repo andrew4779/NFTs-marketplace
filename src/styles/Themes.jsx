@@ -29,7 +29,6 @@ export const Dark = {
 
   carouselColor: "#EEEDDE",
 
-  
   fontxs: "0.75rem",
   fontsm: "0.875rem",
   fontmd: "1rem", // 1rrem = 16px
