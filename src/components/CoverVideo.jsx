@@ -10,6 +10,7 @@ const CoverVideo = () => {
   );
 };
 
+
 const VideoContainer = styled.div`
   width: 100%;
 
