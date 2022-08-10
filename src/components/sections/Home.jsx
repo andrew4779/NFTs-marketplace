@@ -70,6 +70,7 @@ const rotate = keyframes`
   }
 `;
 
+
 const RoundText = styled.div`
   position: absolute;
   left: 5%;

@@ -75,6 +75,7 @@ const JoinNow = styled.button`
   }
 `;
 
+
 const BtnContainer = styled.div`
   width: 35%;
   display: flex;
