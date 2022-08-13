@@ -58,3 +58,4 @@ const Up = styled.div`
 `;
 
 export default ScrollToTop;
+
