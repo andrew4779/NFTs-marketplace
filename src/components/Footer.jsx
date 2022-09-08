@@ -26,14 +26,14 @@ const Footer = () => {
           <Logo />
           <IconList>
             <a
-              href="http://twitter.com/israelmitolu"
+              href="http://twitter.com/masaneii"
               target="_blank"
               rel="noopener noreferrer"
             >
               <Twitter />
             </a>
             <a
-              href="http://linkedin.com/in/israeloyetunji"
+              href="https://www.linkedin.com/in/drew-kimani/"
               target="_blank"
               rel="noopener noreferrer"
             >
