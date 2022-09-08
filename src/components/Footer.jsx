@@ -56,7 +56,6 @@ const Footer = () => {
           </IconList>
         </LeftContent>
 
-
         <ListItems>
           <Item onClick={() => scrollTo("home")}>Home</Item>
           <Item onClick={() => scrollTo("about")}>About</Item>
