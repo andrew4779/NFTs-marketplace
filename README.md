@@ -13,5 +13,4 @@ Svg Icons From: https://icons8.com & https://freesvg.org/   <br />
 [styled-components](https://styled-components.com/docs/advanced) <br />
 [GSAP](https://greensock.com/gsap/) <br />
 [type-writer effect](https://www.npmjs.com/package/typewriter-effect) <br />
-[react-confetti](https://www.npmjs.com/package/react-confetti) <br />
 [react-use](https://www.npmjs.com/package/react-use) <br />
