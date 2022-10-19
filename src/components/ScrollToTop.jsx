@@ -52,10 +52,10 @@ const Up = styled.div`
     transform: scale(1.2);
   }
 
+
   &:active {
     transform: scale(0.9);
   }
 `;
 
 export default ScrollToTop;
-
