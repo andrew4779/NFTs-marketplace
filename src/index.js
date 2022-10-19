@@ -4,7 +4,7 @@ import App from "./App";
 import "../node_modules/normalize.css/normalize.css";
 import { BrowserRouter } from "react-router-dom";
 // import reportWebVitals from "./reportWebVitals";
-// import repo
+
 
 ReactDOM.render(
   <React.StrictMode>
